@@ -9,8 +9,6 @@ add_executable(passm main.c
         user_interaction.c
         user_interaction.h
         argprs/argprs.c
-        argprs/argument.c
-        argprs/argument.h
         argprs/arg_result_set.c
         argprs/arg_result_set.h
 )
